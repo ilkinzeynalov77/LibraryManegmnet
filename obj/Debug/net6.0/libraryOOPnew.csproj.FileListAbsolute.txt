@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\bin\Debug\net6.0\libraryOOPnew.exe
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\bin\Debug\net6.0\libraryOOPnew.deps.json
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\bin\Debug\net6.0\libraryOOPnew.runtimeconfig.json
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\bin\Debug\net6.0\libraryOOPnew.dll
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\bin\Debug\net6.0\libraryOOPnew.pdb
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.AssemblyInfo.cs
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.dll
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\refint\libraryOOPnew.dll
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.pdb
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\libraryOOPnew.genruntimeconfig.cache
+C:\Users\User\source\repos\libraryOOPnew\libraryOOPnew\obj\Debug\net6.0\ref\libraryOOPnew.dll
